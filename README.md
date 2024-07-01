@@ -1,6 +1,7 @@
 # JENKINS ON KUBERNETES
 
-#GUIDE 
+# GUIDE 
+
 1-**Pull project with github**
 >git clone https://github.com/ArgoFox1/JenkinsOnKubernetes
 
@@ -10,7 +11,7 @@
 3-**Start the kubernetes**
 >minikube start
 
-4-**Check namespaces if you cant find named jenkins create one**
+4-**If you can't find a namespace named jenkins, create one**
 >kubectl create namespace jenkins
 
 5-**Create deployment object**
@@ -46,6 +47,6 @@
 12-**and it will ask you for your admin password.**
 ![Ekran görüntüsü 2024-07-01 213200](https://github.com/ArgoFox1/JenkinsOnKubernetes/assets/105239243/8eba2877-74f9-44c5-bc98-732fce74b846)
 
-13-**When installation completes This page will welcomes you**
+13-**When installation and signing up completes This page will welcomes you**
 ![Screenshot from 2024-07-01 11-40-59](https://github.com/ArgoFox1/JenkinsOnKubernetes/assets/105239243/55dac019-b02c-4d3c-ba6d-2d758e1d8e5e)
 
