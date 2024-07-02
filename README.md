@@ -1,4 +1,6 @@
 # JENKINS ON KUBERNETES
+![469-jenkins@4x](https://github.com/ArgoFox1/JenkinsOnKubernetes/assets/105239243/a476427c-0978-4f50-9d50-fd5cf2fe352d)
+![kubectl-logo-medium](https://github.com/ArgoFox1/JenkinsOnKubernetes/assets/105239243/d9c775e7-df19-4856-8d26-4c47fb4bf7b1)
 
 # GUIDE 
 
